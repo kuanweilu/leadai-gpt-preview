@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#061A2E"/>
+  <!-- 歷代 logo text — vertically centered -->
+  <text x="600" y="250" text-anchor="middle" font-family="'Noto Sans TC', 'PingFang TC', 'Helvetica Neue', sans-serif" font-weight="700" font-size="140" letter-spacing="12">
+    <tspan fill="#FFFFFF">歷</tspan><tspan fill="#E8B44C">代</tspan>
+  </text>
+  <!-- LEADAI wordmark -->
+  <text x="600" y="340" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="600" font-size="52" letter-spacing="14">
+    <tspan fill="#B8CCE0">LEAD</tspan><tspan fill="#E8B44C">AI</tspan>
+  </text>
+  <!-- Tagline -->
+  <text x="600" y="430" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="400" font-size="32" fill="#6B95BE">
+    Human leads. AI follows.
+  </text>
+  <!-- Subtitle -->
+  <text x="600" y="480" text-anchor="middle" font-family="'Noto Sans TC', 'PingFang TC', 'Helvetica Neue', sans-serif" font-weight="400" font-size="28" fill="#6B95BE">
+    以人為根本、以AI為方法
+  </text>
+</svg>

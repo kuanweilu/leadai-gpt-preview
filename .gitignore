@@ -1,1 +1,3 @@
 _next/static/chunks/
+_next/static/*/_buildManifest.js
+_next/static/*/_ssgManifest.js
