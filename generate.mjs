@@ -272,6 +272,8 @@ async function renderRoute(route, index) {
 }
 
 await copyDirectoryContents(path.join(sourceRoot, "public"), previewRoot);
+await cp(path.join(sourceRoot, "app/favicon.ico"), path.join(previewRoot, "favicon.ico"));
+await cp(path.join(sourceRoot, "app/icon.svg"), path.join(previewRoot, "icon.svg"));
 await copyDirectoryContents(
   path.join(sourceRoot, ".next/static/css"),
   path.join(previewRoot, "_next/static/css"),
