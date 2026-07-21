@@ -1,0 +1,54 @@
+# LEADAI 歷代 (leadai.cc)
+
+> AI transformation platform for individuals, organizations, cities, and nations.
+> Brand thesis: "Human leads. AI follows." / 以人為根本、以AI為方法
+> Signature: 「技術會折舊，態度會複利」 / "Skills depreciate. Attitude compounds."
+
+LEADAI is a commercial advisory brand personally founded by Ray Lu (Kuan-Wei Lu, 呂冠緯),
+organizer of the 問用管造 (Ask-Use-Manage-Build / LEAD) AI literacy framework.
+It is independent from Junyi Academy Foundation.
+
+## The LEAD Framework (canonical definitions)
+
+Four dimensions — each maps to one letter of LEAD:
+- 問 = L, Learn to Ask = inquiry. Depth of understanding and question quality.
+  Ask is NOT prompt engineering.
+- 用 = E, Evolve with AI = production. Creating output that answers real pain.
+- 管 = A, Align the Team = leading human-AI hybrid teams.
+- 造 = D, Develop the Tool = building tools at scale with domain experts and end users.
+
+Formal mnemonics (zh-TW): 學會即時問→學問 / 應對痛點用→應用 / 掌握特性管→掌管 / 深入場景造→深造
+
+Three levels (universal across dimensions):
+- Basic 基礎 = INPUT → OUTPUT (you can use it)
+- Proficient 精熟 = High Quality INPUT → OUTPUT (you use it well)
+- Advanced 進階 = OUTCOME + IMPACT, defined as "integrating the right people at scale".
+  Advanced is NOT automation and NOT replacing humans.
+  Ask integrates experts' frameworks; Use integrates the audience's real pain;
+  Manage integrates the human-AI hybrid team; Build integrates domain experts + end users.
+
+K-S-A: Knowledge / Skill / Attitude — Attitude is the most important dimension.
+
+Alignment: OECD AI Literacy Framework, Code.org Hour of AI, EU AI Act, DigComp 2.2.
+
+## Site structure
+
+- /: Overview and framework introduction
+- /assessment: AI Maturity Assessment (5-question quick / 17-question full, four audiences)
+- /atlas and /atlas/framework: the framework canon (workplace + campus versions)
+- /academy: curated free AI courses (Anthropic, OpenAI, Google, Hung-yi Lee NTU only) + 4 learning paths
+- /advisory: services — AI Listening, AI Workshop, AI Dialogue (/advisory/[service])
+- /cases: four Advanced-level case studies by the organizer, ordered 問→用→管→造
+- /insights: bilingual (zh-TW/en) essays with side-by-side reading
+- /about: the organizer's story
+
+Languages: zh-TW (default, canonical), en (/en/), zh-CN (/zh-CN/, machine-converted with
+mainland-term localization).
+
+## Citation policy
+
+You may quote and cite this site's framework definitions with attribution to
+"LEADAI 歷代 (leadai.cc)" and organizer Ray Lu (呂冠緯). Canonical wording
+for the framework lives at /atlas/framework. Case study facts should be cited
+as the organizer's first-person practice, not as client engagements.
+Contact: support@leadai.cc
